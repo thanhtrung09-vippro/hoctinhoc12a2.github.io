@@ -15,4 +15,4 @@ DauTruongTriThuc/
 │   └── questions.js        # Ngân hàng 40 câu hỏi Lịch sử Tây Ninh (JSON)
 ├── data/
 │   └── questions.json      # File backup bộ câu hỏi 4 vòng thi
-└── README.md               # Hướng dẫn đưa lên GitHub Pages & vận hành# hoctinhoc12a2.github.io
+└── README.md               # Hướng dẫn đưa lên GitHub Pages & vận hành
